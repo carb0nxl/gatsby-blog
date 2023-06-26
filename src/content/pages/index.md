@@ -9,4 +9,5 @@ cta:
   ctaLink: /about
 ---
 
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+I am a Deaf software developer currently learning web dev technologies.
+I occasionally write blogs about Deaf topics or various topics of interest.
